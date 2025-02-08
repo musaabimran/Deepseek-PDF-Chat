@@ -21,32 +21,20 @@ A application that enables users to upload PDF documents and ask questions about
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pdf-qa-system.git
-cd deepseek-ollama
+git clone https://github.com/musaabimran/Deepseek-PDF-Chat.git
 ```
 
 2. Create and activate a virtual environment:
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
+# On Windows use: .venv\Scripts\activate
 ```
 
 3. Install the required packages:
 
 ```bash
 pip install -r requirements.txt
-```
-
-## Project Structure
-
-```
-pdf-qa-system/
-├── main.py                # Main application file
-├── pdfs/                  # Directory for uploaded PDFs
-├── requirements.txt       # Project dependencies
-├── .gitignore             # Git ignore file
-└── README.md              # Project documentation
 ```
 
 ## Dependencies
