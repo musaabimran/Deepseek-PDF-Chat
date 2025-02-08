@@ -28,7 +28,7 @@ git clone https://github.com/musaabimran/Deepseek-PDF-Chat.git
 
 ```bash
 python -m venv .venv
-# On Windows use: .venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 3. Install the required packages:
